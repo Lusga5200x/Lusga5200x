@@ -20,4 +20,4 @@
 ## 📫 Contato
 
 Email: eolcbr@gmail.com
-LinkedIn: (coloque seu linkedin aqui)
+LinkedIn: https://www.linkedin.com/in/lucas-souza-51138b3a3/
