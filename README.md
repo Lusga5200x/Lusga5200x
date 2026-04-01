@@ -11,11 +11,7 @@
 - GitHub
 - Lógica de programação
 
-## 📂 Projetos
 
-🔹 Conversor de metros para centímetros em C  
-🔹 Cálculo de salário mensal  
-🔹 Média de notas  
 
 ## 📫 Contato
 
