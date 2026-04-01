@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**Lusga5200x/Lusga5200x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Atualmente aprendendo lógica de programação em C  
+🚀 Buscando minha primeira oportunidade na área de tecnologia
 
-Here are some ideas to get you started:
+## 📚 Tecnologias em aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- Git
+- GitHub
+- Lógica de programação
+
+## 📂 Projetos
+
+🔹 Conversor de metros para centímetros em C  
+🔹 Cálculo de salário mensal  
+🔹 Média de notas  
+
+## 📫 Contato
+
+Email: eolcbr@gmail.com
+LinkedIn: (coloque seu linkedin aqui)
