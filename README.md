@@ -7,6 +7,7 @@
 ## 📚 Tecnologias em aprendizado
 
 - C
+- Python
 - Git
 - GitHub
 - Lógica de programação
