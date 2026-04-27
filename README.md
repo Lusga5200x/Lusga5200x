@@ -1,20 +1,53 @@
-# Olá, eu sou o Lucas 👋
+# 👋 Olá, eu sou Lucas
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Atualmente aprendendo lógica de programação em C  
-🚀 Buscando minha primeira oportunidade na área de tecnologia
+💻 Estudante de programação focado em lógica e desenvolvimento em C.
 
-## 📚 Tecnologias em aprendizado
+---
 
-- C
-- Python
-- Git
-- GitHub
+## 🚀 Sobre mim
+
+Atualmente estou cursando Anlálise e desenvolvimento de sistemas(ADS), onde estou desenvolvendo minha base em programação com foco em:
+
 - Lógica de programação
+- Linguagem C
+- Estruturas de decisão (if/else, switch)
+- Estruturas de repetição (em desenvolvimento)
+- Criação de pequenos projetos práticos
 
+Estou construindo minha evolução como desenvolvedor através de projetos simples, focando em entender bem os fundamentos antes de avançar para tecnologias mais complexas.
 
+---
+
+## 📚 O que estou estudando agora
+
+- Programação em C
+- Estruturas de controle de fluxo
+- Manipulação de variáveis e tipos de dados
+- Desenvolvimento de projetos como o Super Trunfo
+- Fundamentos de rede de computadores
+- Computação em nuvem
+- Introdução a segurança da informação
+---
+
+## 🧠 Projetos
+
+🔹 Super Trunfo em C  
+Projeto de lógica de programação com cadastro de cartas, cálculos e sistema de comparação entre atributos.
+ - Está em desenvolvimento.
+
+🔹 Exercícios de lógica  
+Pequenos programas para treinar raciocínio lógico e sintaxe da linguagem C.
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor sólido, com base forte em lógica de programação e evolução constante tanto em back-end como em front-end.
+
+---
 
 ## 📫 Contato
 
-Email: eolcbr@gmail.com
-LinkedIn: https://www.linkedin.com/in/lucas-souza-51138b3a3/
+- Email: eolcbr@gmail.com
+- Número: (21) 9 8269-2945
+- GitHub: https://github.com/Lusga5200x
