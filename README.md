@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Atualmente estou cursando Anlálise e desenvolvimento de sistemas(ADS), onde estou desenvolvendo minha base em programação com foco em:
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas(ADS), onde estou desenvolvendo minha base de programação com foco em:
 
 - Lógica de programação
 - Linguagem C
@@ -49,5 +49,4 @@ Me tornar um desenvolvedor sólido, com base forte em lógica de programação e
 ## 📫 Contato
 
 - Email: eolcbr@gmail.com
-- Número: (21) 9 8269-2945
 - GitHub: https://github.com/Lusga5200x
