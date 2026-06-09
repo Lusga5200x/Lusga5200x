@@ -1,60 +1,58 @@
 # 👋 Olá, eu sou Lucas
 
-💻 Estudante de programação focado em lógica de programação e desenvolvimento em Python.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em **Back-End e Lógica de Programação**.
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS), onde venho desenvolvendo minha base em programação com foco em:
+Estou em formação como desenvolvedor e construindo uma base sólida em programação, priorizando fundamentos antes de avançar para tecnologias mais complexas.
 
-* Lógica de programação
-* Linguagem Python
-* Automação Web com Playwright
-* Estruturas de decisão (if/else e switch)
-* Estruturas de repetição
-* Desenvolvimento de pequenos projetos práticos
+Tenho interesse especial em:
 
-Estou construindo minha evolução como desenvolvedor por meio de projetos simples, buscando dominar bem os fundamentos antes de avançar para tecnologias mais complexas.
+- Lógica de programação  
+- Desenvolvimento Back-End  
+- Automação de processos  
+- Resolução de problemas com código  
 
 ---
 
-## 📚 O que estou estudando atualmente
+## 📚 Tecnologias e estudos atuais
 
-* Programação em Python
-* Estruturas de controle de fluxo
-* Automação Web com Playwright
-* Desenvolvimento de projetos práticos, como sistemas de consulta de placas
-* Fundamentos de redes de computadores
-* Computação em nuvem
-* Introdução à segurança da informação
+- 🐍 Python (principal linguagem)
+- 🔁 Estruturas de controle e lógica
+- 🌐 Automação Web com Playwright
+- 🗄️ SQL e banco de dados
+- 📖 Inglês técnico
+- 🧠 Desenvolvimento de projetos práticos
 
 ---
 
 ## 🧠 Projetos
 
-### 🔹 Consulta de Placas
+### 🔹 Conecta Pátio (Automação de Consulta de Veículos)
 
-Automação em Python utilizando Playwright para consultar placas de veículos no site do Consórcio Rio Parking Carioca.
+Projeto em Python utilizando Playwright para automação de consultas de veículos em sistemas web.
 
-### 🔹 Super Trunfo em C
+**Foco:** automação, scraping e integração com sistemas web.
 
-Projeto de lógica de programação com cadastro de cartas, cálculos e sistema de comparação entre atributos.
-🚧 Projeto em desenvolvimento.
+---
 
-### 🔹 Exercícios de lógica
+### 🔹 Exercícios de Lógica
 
-Pequenos programas desenvolvidos para praticar raciocínio lógico e sintaxe das linguagens C e Python.
+Conjunto de pequenos programas em Python para treinar lógica de programação, estruturas de decisão e repetição.
+
+**Foco:** base sólida em programação e raciocínio lógico.
 
 ---
 
 ## 🎯 Objetivo
 
-Me tornar um desenvolvedor sólido, com uma base forte em lógica de programação e evolução constante na área de back-end.
+Me tornar um desenvolvedor Back-End sólido, com domínio de lógica, banco de dados e automação, construindo projetos reais e escaláveis.
 
 ---
 
 ## 📫 Contato
 
-* Email: [eolcbr@gmail.com](mailto:eolcbr@gmail.com)
-* GitHub: https://github.com/Lusga5200x
+- 📧 Email: eolcbr@gmail.com  
+- 🐙 GitHub: https://github.com/Lusga5200x  
